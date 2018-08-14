@@ -1,0 +1,12 @@
+C:\Users\Domagoj\Desktop\OS2-Projekt\DigitalniPotpis\DigitalniPotpis\bin\Debug\DigitalniPotpis.exe.config
+C:\Users\Domagoj\Desktop\OS2-Projekt\DigitalniPotpis\DigitalniPotpis\obj\Debug\DigitalniPotpis.exe
+C:\Users\Domagoj\Desktop\OS2-Projekt\DigitalniPotpis\DigitalniPotpis\obj\Debug\DigitalniPotpis.pdb
+C:\Users\Domagoj\Desktop\OS2-Projekt\DigitalniPotpis\DigitalniPotpis\bin\Debug\DigitalniPotpis.exe
+C:\Users\Domagoj\Desktop\OS2-Projekt\DigitalniPotpis\DigitalniPotpis\bin\Debug\DigitalniPotpis.pdb
+C:\Users\Domagoj\Desktop\OS2-Projekt\DigitalniPotpis\DigitalniPotpis\obj\Debug\KriptoApp.csprojResolveAssemblyReference.cache
+C:\Users\Domagoj\Desktop\OS2-Projekt\DigitalniPotpis\DigitalniPotpis\obj\Debug\DigitalniPotpis.AsimetricnoForm.resources
+C:\Users\Domagoj\Desktop\OS2-Projekt\DigitalniPotpis\DigitalniPotpis\obj\Debug\DigitalniPotpis.DigitalniPotpisForm.resources
+C:\Users\Domagoj\Desktop\OS2-Projekt\DigitalniPotpis\DigitalniPotpis\obj\Debug\DigitalniPotpis.SimetricnoKriptForma.resources
+C:\Users\Domagoj\Desktop\OS2-Projekt\DigitalniPotpis\DigitalniPotpis\obj\Debug\DigitalniPotpis.GlavniIzbornikForm.resources
+C:\Users\Domagoj\Desktop\OS2-Projekt\DigitalniPotpis\DigitalniPotpis\obj\Debug\DigitalniPotpis.Properties.Resources.resources
+C:\Users\Domagoj\Desktop\OS2-Projekt\DigitalniPotpis\DigitalniPotpis\obj\Debug\KriptoApp.csproj.GenerateResource.Cache
